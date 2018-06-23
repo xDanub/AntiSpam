@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Hyroxing/AntiSpam
+branches:
+- master
+projects:
+  Anti-Spam-iTzFreeHD:
+    path: Anti-Spam-iTzFreeHD/
+...
