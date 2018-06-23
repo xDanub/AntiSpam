@@ -12,7 +12,7 @@ A Simple Spam protection
 
 --------------------
 ### Download .phar:
-- [.phar]()
+- [.phar](https://poggit.pmmp.io/ci/Hyroxing/AntiSpam/Anti-Spam-iTzFreeHD)
 --------------------
 
 ### Benutzung:
